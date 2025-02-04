@@ -1,0 +1,1 @@
+Catch all for all things ML and research oriented.  Most of the things I put in here will just be projects I've taken on based on my own curiosity or just wanting to keep up my skillset. I may add more here in the ReadMe once more files get added.
